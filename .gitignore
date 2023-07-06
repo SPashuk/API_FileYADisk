@@ -9,4 +9,5 @@
 *.log
 *.lock
 *.tmp
+token
 token.txt
